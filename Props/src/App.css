@@ -1,0 +1,33 @@
+.container{
+  border:1px solid transparent;
+  height:800px;
+  width:1000px;
+
+}
+.mainCard{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+
+.header{
+  height: 100px;
+  width: 1200px;
+  font-size: 30px;
+  background-color: rgb(12, 130, 189);
+  color: white;
+  justify-content: center;
+  text-align: center;
+  padding-top: 0px;
+}
+.footer{
+  height: 100px;
+  width: 1200px;
+  font-size: 25px;
+  padding-top: 0px;
+  margin-top: 50px;
+background-color: rgb(12, 130, 189);
+  color: white;
+  justify-content: center;
+  text-align: center;
+}
